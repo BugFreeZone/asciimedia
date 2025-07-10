@@ -1,2 +1,2 @@
 # asciimedia
-ASCII медиаплеер на Python. 
+ASCII media player in Python. 
